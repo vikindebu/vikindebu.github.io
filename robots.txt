@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vikindebu.github.io/sitemap
+Sitemap: https://vikindebu.github.io/app/sitemap
+Sitemap: https://vikindebu.github.io/assets/sitemap
+Sitemap: https://vikindebu.github.io/css/sitemap
+Sitemap: https://vikindebu.github.io/includes/sitemap
+Sitemap: https://vikindebu.github.io/item/sitemap
+Sitemap: https://vikindebu.github.io/src/sitemap
